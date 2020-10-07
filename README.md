@@ -1,4 +1,4 @@
-# Random_forest_Classifier_on_Drug200_dataset
+# Random Forest Classifier on Drug200 dataset
 
 This is the code for "Random Forests Classifier" on drug200 dataset by Ajay Chouhan.
 
