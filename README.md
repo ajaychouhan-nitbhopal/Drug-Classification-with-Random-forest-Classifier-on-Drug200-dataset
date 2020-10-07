@@ -27,5 +27,9 @@ You can find abovementioned dataset [here](https://s3-api.us-geo.objectstorage.s
 Install missing dependencies with [pip](https://pip.pypa.io/en/stable/)
 
 ## Usage
-Just run jupyter notebook in terminal and the code will pop up in your browser.
+1. Random_Forest_Classification_drug200_dataset.ipynb is Jupyter Notebook which contains classifier model.
+2. drug200.csv is CSV file which contains dataset of 200 patients.
+3. Python_file_Random_Forest_Classification_drug200_dataset.py is Python file which contains python code of the classifier.
+4. Confusion matrix of Test set (All drugs).JPG is Jpeg file which contains Confusion Matrix of Test set.
+
 Install jupyter [here](https://jupyter.org/install).
