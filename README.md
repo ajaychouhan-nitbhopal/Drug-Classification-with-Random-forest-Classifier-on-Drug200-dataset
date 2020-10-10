@@ -1,4 +1,5 @@
 # Random Forest Classifier on Drug200 dataset
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fajaychouhan-nitbhopal%2FDrug-Classification-with-Random-forest-Classifier-on-Drug200-dataset)
 
 This is the code for "Random Forests Classifier" on drug200 dataset by Ajay Chouhan.
 
